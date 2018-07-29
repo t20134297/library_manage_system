@@ -22,7 +22,7 @@
 	</head>
 	<body>
 		<div class="center">
-			<font size="6" color="red">都说大学越上，梦想越少，但是始终有一个梦想，希望某门课程得到100分，在这个作业上至少用了100小时，熬了好几个晚上。老师您能圆梦吗？</font>
+			<font size="6" color="red">都说大学越上，梦想越少，但是始终有一个梦想，希望某门课程得到100分</font>
 			<input type="button" name="Continue" value="圆梦" onclick="javascript:history.go(-1);"> 		 
 		</div>
 		
